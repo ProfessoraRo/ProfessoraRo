@@ -7,33 +7,17 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 <div align="center">
-  <img src="![visitors]https://visitor-badge.laobi.icu/badge?page_id=page.id=https://github.com/ProfessoraRo"/>
+  <img src="![visitors]https://visitor-badge.laobi.icu/badge?page_id=page.id=ProfessoraRo.id" />
 </div>
 <h1 align="center">Olá, eu sou Rosana de Lara 👋</h1>
-<h3 align="left">👩‍💻  Sou professora de Pensamento Computacional, no ensino Fundamental II, para oitavo e nono ano, e no Ensino Médio para a primeira série. Também tenho turmas de extensão de jornada em games e programação e robótica.</h3>
+<h3 align="center">👩‍💻  Sou professora de Pensamento Computacional, no ensino Fundamental II, para oitavo e nono ano, e no Ensino Médio para a primeira série. Também tenho turmas de extensão de jornada em games e programação e robótica.</h3>
 
-<p align="left">Eu sou de São Mateus do Sul - Paraná<br><br>- 🔭 Trabalho no Colégio Estadual do Campo Professor Eugênio de Almeida<br>- 📚 Sou formada em Ciências Biológicas e tenho padrão nas disciplinas de Biologia e Ciências, mestra em Ensino de Biologia<br>- ⚡ Eu meu tempo livre estou investindo na formação para programação, análise e desenvolvimento de sistemas, e também em atividades domésticas, plantio de horta e cuidado com animais...</p>
+<p align="left">Eu sou de São Mateus do Sul - Paraná<br><br>- 🔭 Trabalho no Colégio Estadual do Campo Professor Eugênio de Almeida<br>- 📚 Sou formada em Ciências Biológicas<br>-📚Mestra em Ensino de Biologia<br>- ⚡ Em meu tempo livre estou investindo na formação para programação, análise e desenvolvimento de sistemas<br></p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 <h3 align="left">🔥   My Stats :</h3>
 <div align="center">
